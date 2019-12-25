@@ -93,7 +93,7 @@ const textToReplace = [
     to: nameUnderscores
   },
   {
-    from: /eri Scaffold/g,
+    from: /Eri Scaffold/g,
     to: nameCapitalize
   }
 ];
