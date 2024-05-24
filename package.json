@@ -27,7 +27,8 @@
   "eri": {
     "repos": {
       "theme": "https://github.com/Eri-Design/starter-theme",
-      "plugin": "https://github.com/Eri-Design/starter-plugin"
+      "plugin": "https://github.com/Eri-Design/starter-plugin",
+      "wp": "https://github.com/Eri-Design/wp-block-scaffold"
     }
   },
   "engineStrict": true,
